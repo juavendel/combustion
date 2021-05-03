@@ -1,0 +1,127 @@
+.u-section-1 {
+  background-image: none;
+  min-height: 908px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 162px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 667px;
+  background-image: url("images/d0420eed20b69f5050227956d39baaae90409392e939d6679a8e926b40a84ad436ea88281f65725243048fa3fd91d69a72f68606985f089c63955e_1280.jpg");
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 133px 30px 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 667px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 80px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 79px 12px 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 50px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 791px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 550px;
+    background-position: 18.9% 50%;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 550px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    font-weight: normal;
+    text-transform: none;
+    font-family: Roboto, sans-serif;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 662px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 421px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 30px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 973px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 632px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 739px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 398px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}
